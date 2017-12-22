@@ -3,6 +3,25 @@ body {
     font-family: Verdana;
     background-color: black;
 }
-h1, h2 {
+h1 {
+    font-weight: normal;
+    font-size: 50px;
     color: white;
+}
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+a {
+    font-size: 16px;
+    color: Aquamarine;
+}
+#desc {
+    font-size: 21px;
+    color: Gray;
+}
+#copyright {
+    text-align: right;
+    color: Gray;
 }
